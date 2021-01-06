@@ -1,0 +1,2 @@
+client_id = '2TNko8fRlzRwhqkvrJTE1A'
+api_key = 'WRaElnmVvKVyeugVhRae2QOHQWJFhUyoKuqpXHbE5uZDHKgA32CaYDcjqHwVOifJr57QPLjqIkT8fY2M9K6H2yEzUFJS7nClpT2tlSukjYTGzA5_-SeJVPlnk3PzX3Yx'
