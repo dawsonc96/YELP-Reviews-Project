@@ -1,2 +1,5 @@
 client_id = '2TNko8fRlzRwhqkvrJTE1A'
 api_key = 'WRaElnmVvKVyeugVhRae2QOHQWJFhUyoKuqpXHbE5uZDHKgA32CaYDcjqHwVOifJr57QPLjqIkT8fY2M9K6H2yEzUFJS7nClpT2tlSukjYTGzA5_-SeJVPlnk3PzX3Yx'
+
+client_id2 = 'z5FPRiFN1Th8uQRPbWSEIg'
+api_key2= 'GxKB3hPDVkON6lH-yP1uhD9y0k6Rl9UYkGRugTXR4Es3bCatBMZtU0MMKiVzVJkSz3oThmpXXhRMFCVDfuXMfnnSAb1TytjQvlOJEJaWxc2RX4Vc_CweSLQKnHb2X3Yx'
