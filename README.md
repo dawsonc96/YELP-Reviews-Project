@@ -8,11 +8,11 @@ This project aims to identify the best insights into the Cafe industry using the
 
 A wealthy group of investors, known as Capital Partners LLC., have been dreaming about opening their own restaurant cafe and have finally decided to begin searching for the right destination. As they have offices in both San Francisco and Los Angeles, the team has narrowed it down to these two locations. They have hired your firm, Data Analysts LLC., to help them better understand each market and ultimately pick the best option of the two. Your team is in charge of exploring which environment will be more profitable through data-driven insights.
 
-   ## Repository Structure
+   ## REPOSITORY STRUCTURE
 
 This repository contains a code notebook: yelp_setup.ipynb which contains all code needed to analyze our data. An SQL datatabase (yelp.db) stores all data used for our project. The repository also containsa Readme file: README.md and an images folder for all visualizations and other external images.
 
-   ## ANALYSIS CRITERIA:**
+   ## ANALYSIS CRITERIA
 
 For this project, we used four criterias to try to detemine the best location for our cafe:
 
