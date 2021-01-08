@@ -4,6 +4,7 @@
 
 This project aims to identify the best insights into the Cafe industry using the Yelp API data for existing cafes in the cities of Los Angeles and San Francisco for anyone looking to open a cafe in these two cities.
 
+
 ## BUSINESS PROBLEM
 
 A wealthy group of investors, known as Capital Partners LLC., have been dreaming about opening their own restaurant cafe and have finally decided to begin searching for the right destination. As they have offices in both San Francisco and Los Angeles, the team has narrowed it down to these two locations. They have hired your firm, Data Analysts LLC., to help them better understand each market and ultimately pick the best option of the two. Your team is in charge of exploring which environment will be more profitable through data-driven insights.
