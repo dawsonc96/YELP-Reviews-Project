@@ -42,8 +42,8 @@ The biggest motivator for a business is money. Hence, this is one of the most us
   - Even though there are more cafes per capita in San Francisco, they have been well abled to maintain their revenue, considering the prices, and have successfully been able to maintain high ratings, even slightly beating cafes in Los Angeles.
   
   **Contributors**
-  [Christa Dawson https://github.com/dawsonc96]
-  [Saad Raees https://github.com/Saadraees09]
+  [Christa Dawson] (https://github.com/dawsonc96)
+  [Saad Raees] (https://github.com/Saadraees09)
   
   
   
