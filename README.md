@@ -24,6 +24,8 @@ For this project, we used four criterias to try to detemine the best location fo
 
 -Price
 
+-Review Counts
+
    **MEDIAN INCOME**
 Los Angeles and San Francisco may seem to be pretty similar cities in terms of demographics and income, and they are if compared to other cities, but there is still a big disparity of income between these two cities. You may give the credit for that to the the bloated tech industry in the Bay Area. As you can see, the median income in LA is just under $70,000, while the median income in SF is almost a whopping $120,000. That gives us an idea that the buying power is much higher in SF than it is in LA. However, this does not take into consideration the disposeable income of these two cities. Despite of that, San Francisco, with all its expenses and high cost of living, is still the city with the highest disposable income in not just the state of California and the US, but also the world, according to this 2019 NBC news article (https://www.nbcbayarea.com/news/local/san-francisco-unseats-zurich-as-city-with-highest-salaries-and-most-disposable-income/156672/).
  
@@ -36,14 +38,18 @@ Now this is the part where the difference is just not ignoreable. In this graph,
   **PRICE**
 The biggest motivator for a business is money. Hence, this is one of the most useful graphs for us. We made this graph to help us determine whether a city is resistant to higher priced cafes. What we can gather from here is that there is only one classification of prices where Los Angeles beats San Francisco and that is with low priced cafes. San Francisco is much more welcoming to medium priced, high priced, and exorbitantly priced cafes. Even if we assume that the high number of pricey cafes in SF might be because it has more cafes in general, the fact that LA has more than double the amount of low priced cafes than SF nullifies that assumption. That itself is a huge reason why a business might get attracted to San Francisco.
   
+  **REVIEW COUNTS**
+  Review counts are a great way to tell how enthusiastic people feel about a certain industry. The more the people tend to leave a review, the more interest they are showing towards that business. We have come up with two graphs to help us do some assessments in that area of this business. Our first graph is kind of shocking. It really shows the disparity of reviews between LA and SF. There are 9% of people leaving reviews for cafes in LA while the percentage in SF is a whopping 69%. The next graph just affirms our fear. Even though LA has almost four times the population of SF, the number of reviews left under cafes in LA is almost half that of SF. What that shows is that people are not really enthusiastic about their cafes in LA. That could be due to many reasons, one of them being the possibility that the cafes in LA just dont provide that kind of service or environment and a home like feeling to its customers. However, our next two graphs suggest that if you're trying to enter the high end market, you should really not worry about the review counts.
+  
  ## SUMMARY
   
-  - Median income is San Francisco is much higher, therefore the residents there do not mind paying for more expensive products.
-  - Even though there are more cafes per capita in San Francisco, they have been well abled to maintain their revenue, considering the prices, and have successfully been able to maintain high ratings, even slightly beating cafes in Los Angeles.
+  - Los Angeles has a much lower number of cafes per capita, which means there is much more room for new places to open with a higher demand.
+  - Since there are not that many high end cafes in LA as compared to SF, we can use that as an oppurtunity to break in to the high end cafe market and increase our profitability.
+  - The fact that people are not that enthusiastic about their cafes in LA is not a constant and can be changed provided there are business owners who are willing to take that oppurtunity and provide great service and ambiance to its customers making it a trend where people are excited to talk about their cafe.
   
   **Contributors**
-  [Christa Dawson] (https://github.com/dawsonc96)
-  [Saad Raees] (https://github.com/Saadraees09)
+  [Christa Dawson https://github.com/dawsonc96]
+  [Saad Raees https://github.com/Saadraees09]
   
   
   
