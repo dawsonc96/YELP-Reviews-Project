@@ -1,14 +1,16 @@
-# Business Analysis For Aspiring Cafe Owners 
+# Opening a Successful Cafe: Business Analysis For Aspiring Cafe Owners 
 
 **OVERVIEW:**
 
 This project aims to identify the best insights into the Cafe industry using the Yelp API data for existing cafes in the cities of Los Angeles and San Francisco for anyone looking to open a cafe in these two cities.
 
+**BUSINESS PROBLEM:**
+
+A wealthy group of investors, known as Capital Partners LLC., have been dreaming about opening their own restaurant cafe and have finally decided to begin searching for the right destination. As they have offices in both San Francisco and Los Angeles, the team has narrowed it down to these two locations. They have hired your firm, Data Analysts LLC., to help them better understand each market and ultimately pick the best option of the two. Your team is in charge of exploring which environment will be more profitable through data-driven insights.
 
 **Repository Structure:**
 
-This repository contains a code notebook: yelp_setup.ipynb , a Readme file: README.md , a SQL based database: yelp.db , and an images folder for all visualizations and other external images.
-
+This repository contains a code notebook: yelp_setup.ipynb which contains all code needed to analyze our data. An SQL datatabase (yelp.db) stores all data used for our project. The repository also containsa Readme file: README.md and an images folder for all visualizations and other external images.
 
 **ANALYSIS CRITERIA:**
 
@@ -21,6 +23,7 @@ For this project, we used four criterias to try to detemine the best location fo
 -Establishments per capita
 
 -Price
+
    ## MEDIAN INCOME
  Los Angeles and San Francisco may seem to be pretty similar cities in terms of demographics and income, and they are if compared to other cities, but there is still a big disparity of income between these two cities. You may give the credit for that to the the bloated tech industry in the Bay Area. As you can see, the median income in LA is just under $70,000, while the median income in SF is almost a whopping $120,000. That gives us an idea that the buying power is much higher in SF than it is in LA. However, this does not take into consideration the disposeable income of these two cities. Despite of that, San Francisco, with all its expenses and high cost of living, is still the city with the highest disposable income in not just the state of California and the US, but also the world, according to this 2019 NBC news article (https://www.nbcbayarea.com/news/local/san-francisco-unseats-zurich-as-city-with-highest-salaries-and-most-disposable-income/156672/).
  
