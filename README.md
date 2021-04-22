@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img width="480" height="240" src=Images/yelp.png>
+ <img width="680" height="340" src=Images/yelp.png>
  </p>
 
 
